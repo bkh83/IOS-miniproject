@@ -18,10 +18,8 @@
 
 | 룰렛 (메인 화면) | 결정 완료 및 보상 | 메뉴 관리 |
 | :---: | :---: | :---: |
-| [![스크린샷 2025-06-18 210048](https://github.com/user-attachments/assets/4ac2cdd8-d3b0-4c9b-b8a2-35f55847b62b)
-] | [![스크린샷 2025-06-18 210648](https://github.com/user-attachments/assets/7b5b70a8-8831-4932-bd72-aa580f4c8d25)
-] | [![스크린샷 2025-06-18 210728](https://github.com/user-attachments/assets/cec4e975-17c2-403a-a0f6-5144281b10ac)
-] |
+| [여기에 룰렛 화면 스크린샷 추가] | [여기에 실천 완료 후 화면 스크린샷 추가] | [여기에 메뉴 관리 탭 스크린샷 추가] |
+
 
 # 사용 기술
 
