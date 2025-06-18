@@ -23,7 +23,7 @@
 ] | [![스크린샷 2025-06-18 210728](https://github.com/user-attachments/assets/cec4e975-17c2-403a-a0f6-5144281b10ac)
 ] |
 
-#사용 기술
+# 사용 기술
 
 *UI Framework: SwiftUI
 *Data Persistence : UserDefaults
@@ -34,6 +34,6 @@
 
 ---
 
-#Icon Credits
+# Icon Credits
 - Icon made by [Freepik] from [www.flaticon.com](https://www.flaticon.com)
 - Link: https://www.flaticon.com/kr/free-icon/choice_5405886
