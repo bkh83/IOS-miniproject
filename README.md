@@ -17,11 +17,11 @@
 # 화면 구성
 
 | 룰렛 (메인 화면) | 결정 완료 및 보상 | 메뉴 관리 |
-
-| ![1](https://github.com/user-attachments/assets/584981ba-1eae-4462-9bec-79028daf2b4d)
-| ![2](https://github.com/user-attachments/assets/c8e17baa-9dac-46b1-b7d7-5dbaf369ccf5)
-| [여기에 메뉴 관리 탭 스크린샷 추가] |
-
+| :---: | :---: | :---: |
+| ![3](https://github.com/user-attachments/assets/71fd60b6-8eeb-4b45-981b-c16a689e0f25)
+ | ![2](https://github.com/user-attachments/assets/0503e941-ce11-48d4-95f8-00bff65a0bbd)
+ | ![3](https://github.com/user-attachments/assets/7adaec98-a3b4-402f-9d1b-4162b6a5abf8)
+ |
 
 # 사용 기술
 
