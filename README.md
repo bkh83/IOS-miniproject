@@ -25,12 +25,12 @@
 
 # 사용 기술
 
-*UI Framework: SwiftUI
-*Data Persistence : UserDefaults
-*State Management: @StateObject, @Published, @EnvironmentObject
-*Asynchronous Programming: Timer
-*IDE: Xcode
-*Version Control: Git & GitHub
+* **UI Framework**: SwiftUI
+* **Data Persistence**: UserDefaults
+* **State Management**: @StateObject, @Published, @EnvironmentObject
+* **Asynchronous Programming**: Timer
+* **IDE**: Xcode
+* **Version Control**: Git & GitHub
 
 ---
 
