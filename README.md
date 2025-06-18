@@ -18,7 +18,7 @@
 
 | 룰렛 (메인 화면) | 결정 완료 및 보상 | 메뉴 관리 |
 | :---: | :---: | :---: |
-| ![3](https://github.com/user-attachments/assets/71fd60b6-8eeb-4b45-981b-c16a689e0f25) | ![2](https://github.com/user-attachments/assets/0503e941-ce11-48d4-95f8-00bff65a0bbd) | ![3](https://github.com/user-attachments/assets/7adaec98-a3b4-402f-9d1b-4162b6a5abf8) |
+| ![1](https://github.com/user-attachments/assets/b99bde21-c026-4074-a661-99e3da31e4c3) | ![2](https://github.com/user-attachments/assets/0503e941-ce11-48d4-95f8-00bff65a0bbd) | ![3](https://github.com/user-attachments/assets/7adaec98-a3b4-402f-9d1b-4162b6a5abf8) |
 
 # 사용 기술
 
