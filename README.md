@@ -34,3 +34,6 @@
 # Icon Credits
 - Icon made by [Freepik] from [www.flaticon.com](https://www.flaticon.com)
 - Link: https://www.flaticon.com/kr/free-icon/choice_5405886
+
+# 유튜브 링크
+https://youtu.be/eh3sR-13cQs?feature=shared
